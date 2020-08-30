@@ -3,12 +3,12 @@
 2020 {
     34.5 {
         loan {
-            17
-            1.5
+            2.55 - brother
+            2 - mom
         }
 
         IT fund {
-            10
+            25
         }
 
         investment {
@@ -17,7 +17,7 @@
             }
 
             metal {
-                2.2
+                4.9
             }
 
             stock {
@@ -30,8 +30,8 @@
         }
 
         live {
-            wechat 0.13
-            zhifubao 0.4
+            wechat 0.33
+            zhifubao 0
         }
     }
 }
