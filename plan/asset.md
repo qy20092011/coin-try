@@ -1,7 +1,7 @@
 ### asset
 
 2020 {
-    34.5 - 38.15
+    34.5 - 38.15 - 38.4
     34.5 {
         loan {
             2.55 + brother
@@ -19,7 +19,7 @@
             }
 
             metal {
-                4.5
+                0
             }
 
             stock {
@@ -28,11 +28,11 @@
         }
 
         bank {
-            0.3
+            4.7
         }
 
         live {
-            wechat 0
+            wechat 0.4
             zhifubao 0
         }
     }
